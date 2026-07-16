@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "enabled": true,
+  "force_update": false,
+  "android": {
+    "testad": 0,
+    "menubutton_interstitial": 2,
+    "menubackbutton_interstitial": 3,
+    "menuquitbutton_interstitial": 1,
+    "resume_interstitial": 0,
+    "restartpause_interstitial": 1,
+    "menupause_interstitial": 2
+  },
+  "ios": {
+    "testad": 1,
+    "menubutton_interstitial": 2,
+    "menubackbutton_interstitial": 2,
+    "menuquitbutton_interstitial": 2,
+    "resume_interstitial": 1,
+    "restartpause_interstitial": 1,
+    "menupause_interstitial": 1
+  }
+}
