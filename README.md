@@ -1,2 +1,2 @@
 # UnityRemoteConfig
-Remote config
+Remote config values
