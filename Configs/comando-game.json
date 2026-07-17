@@ -4,12 +4,12 @@
   "force_update": false,
   "android": {
     "testad": 0,
-    "menubutton_interstitial": 0,
-    "menubackbutton_interstitial": 0,
-    "menuquitbutton_interstitial": 0,
-    "resume_interstitial": 0,
-    "restartpause_interstitial": 0,
-    "menupause_interstitial": 0
+    "menubutton_interstitial": 2,
+    "menubackbutton_interstitial": 1,
+    "menuquitbutton_interstitial": 1,
+    "resume_interstitial": 1,
+    "restartpause_interstitial": 1,
+    "menupause_interstitial": 1
   },
   "ios": {
     "testad": 1,
