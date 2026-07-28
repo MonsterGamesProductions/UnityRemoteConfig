@@ -9,7 +9,8 @@
     "menuquitbutton_interstitial": 1,
     "resume_interstitial": 1,
     "restartpause_interstitial": 1,
-    "menupause_interstitial": 1
+    "menupause_interstitial": 1,
+    "during_gameplay_interstitial":0
   },
   "ios": {
     "testad": 1,
@@ -18,6 +19,7 @@
     "menuquitbutton_interstitial": 1,
     "resume_interstitial": 1,
     "restartpause_interstitial": 1,
-    "menupause_interstitial": 1
+    "menupause_interstitial": 1,
+    "during_gameplay_interstitial":0
   }
 }
