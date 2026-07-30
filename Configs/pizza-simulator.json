@@ -4,10 +4,10 @@
   "force_update": false,
   "android": {
     "testad": 0,
-    "gameplay_ad": 0
+    "gameplay_ad": 1
   },
   "ios": {
-    "testad": 1,
+    "testad": 0,
     "gameplay_ad": 0
   }
 }
