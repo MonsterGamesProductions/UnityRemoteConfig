@@ -4,6 +4,7 @@
   "force_update": false,
   "android": {
     "vesrioncontrol":"0.1.1",
+    "all_remoteads_show":0,
     "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
@@ -14,6 +15,7 @@
   },
   "ios": {
      "vesrioncontrol":"0.7",
+     "all_remoteads_show":0,
     "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
