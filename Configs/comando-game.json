@@ -14,7 +14,7 @@
   },
   "ios": {
      "vesrioncontrol":"0.7",
-    "testad": 1,
+    "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
     "menuquitbutton_interstitial": 0,
