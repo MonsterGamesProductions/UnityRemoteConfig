@@ -11,7 +11,8 @@
     "menuquitbutton_interstitial": 1,
     "resume_interstitial": 1,
     "restartpause_interstitial": 1,
-    "menupause_interstitial": 1
+    "menupause_interstitial": 1,
+    "controlscheck": 0
   },
   "ios": {
      "vesrioncontrol":"0.7",
