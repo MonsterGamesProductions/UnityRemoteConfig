@@ -3,8 +3,8 @@
   "enabled": true,
   "force_update": false,
   "android": {
-     "vesrioncontrol":"3.4.9",
-    "all_remoteads_show":1,
+    "vesrioncontrol": "3.4.9",
+    "all_remoteads_show": 1,
     "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
@@ -12,7 +12,7 @@
     "resume_interstitial": 1,
     "restartpause_interstitial": 0,
     "menupause_interstitial": 0,
-     "controlscheck": 1
+    "controlscheck": 1
   },
   "ios": {
     "testad": 1,
