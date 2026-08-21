@@ -4,7 +4,7 @@
   "force_update": false,
   "android": {
     "vesrioncontrol": "3.4.9",
-    "all_remoteads_show": 1,
+    "all_remoteads_show": 0,
     "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
