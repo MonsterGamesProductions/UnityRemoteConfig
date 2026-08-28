@@ -4,7 +4,7 @@
   "force_update": false,
   "android": {
     "versioncontrol": "1.5.5",
-    "all_remoteads_show": 0,
+    "all_remoteads_show": 1,
     "testad": 0,
     "menubutton_interstitial": 0,
     "menubackbutton_interstitial": 0,
