@@ -12,7 +12,7 @@
     "resume_interstitial": 1,
     "restartpause_interstitial": 0,
     "menupause_interstitial": 0,
-    "controlscheck": 1
+    "controlscheck": 0
   },
   "ios": {
     "testad": 1,
