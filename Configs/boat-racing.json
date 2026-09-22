@@ -17,7 +17,7 @@
   "ios": {
     "versioncontrol": "2.1",
     "all_remoteads_show": 0,
-    "testad": 1,
+    "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
     "menuquitbutton_interstitial": 0,
