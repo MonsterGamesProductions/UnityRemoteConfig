@@ -1,8 +1,12 @@
 {
   "stations": [
-    { "name": "Heartland Public Radio", "url": "http://38.145.199.213:7713/stream" },
-    { "name": "1.FM Classic Country", "url": "https://strmreg.1.fm/ccountry_mobile_mp3" },
-    { "name": "The Lynx Country Classics", "url": "http://198.27.75.120:8461/stream" },
-    { "name": "Hotmix Country Hits", "url": "https://streaming.hotmixradio.fr/hotmix-country_hits-en-mp3" }
+    {
+      "name": "1.FM Classic Country",
+      "url": "https://strmreg.1.fm/ccountry_mobile_mp3"
+    },
+    {
+      "name": "Hotmix Country Hits",
+      "url": "https://streaming.hotmixradio.fr/hotmix-country_hits-en-mp3"
+    }
   ]
 }
