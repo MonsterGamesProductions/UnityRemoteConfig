@@ -3,6 +3,8 @@
   "enabled": true,
   "force_update": false,
   "android": {
+    "versioncontrol": "2.1",
+    "all_remoteads_show": 0,
     "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
@@ -12,7 +14,9 @@
     "menupause_interstitial": 0
   },
   "ios": {
-    "testad": 1,
+    "versioncontrol": "1.7",
+    "all_remoteads_show": 0,
+    "testad": 0,
     "menubutton_interstitial": 2,
     "menubackbutton_interstitial": 1,
     "menuquitbutton_interstitial": 0,
