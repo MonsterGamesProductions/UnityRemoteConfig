@@ -7,6 +7,34 @@
     {
       "name": "Hotmix Country Hits",
       "url": "https://streaming.hotmixradio.fr/hotmix-country_hits-en-mp3"
+    },
+    {
+      "name": "Aasman Radio",
+      "url": "https://aasman_radio.ice.infomaniak.ch/aasmanradio.mp3"
+    },
+    {
+      "name": "Dani's New Hiphop",
+      "url": "https://stream.laut.fm/dani-s-new-hiphop"
+    },
+    {
+      "name": "Radio Vox",
+      "url": "https://stm8.srvvox.com.br:7428/stream"
+    },
+    {
+      "name": "Merchib",
+      "url": "https://stream.laut.fm/merchib"
+    },
+    {
+      "name": "ZenoLive Station",
+      "url": "https://stream.zenolive.com/8ty8szwpwfeuv"
+    },
+    {
+      "name": "Zeno FM Station",
+      "url": "https://stream.zeno.fm/s4e0u5bqhtzuv"
+    },
+    {
+      "name": "Bol Punjabi",
+      "url": "https://bolpunjabi-ekamsoftware.radioca.st/stream"
     }
   ]
 }
