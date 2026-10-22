@@ -9,6 +9,14 @@
       "url": "https://streaming.hotmixradio.fr/hotmix-country_hits-en-mp3"
     },
     {
+      "name": "1LIVE R'n'B & HipHop",
+      "url": "https://wdr-1live-hiphoprnb.icecast.wdr.de/wdr/1live/hiphoprnb/mp3/128/stream.mp3"
+    },
+    {
+      "name": "90's Area",
+      "url": "https://live.powerhitz.com/90sarea?aw_0_req.gdpr=true"
+    },
+    {
       "name": "Sbempireradio",
       "url": "https://listen.nobexradio.com/station_sbempireradio"
     },
