@@ -25,6 +25,6 @@
     "resume_interstitial": 1,
     "restartpause_interstitial": 1,
     "menupause_interstitial": 1,
-     "adaptiveBanner": 1
+     "adaptiveBanner": 0
   }
 }
