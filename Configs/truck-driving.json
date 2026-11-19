@@ -6,7 +6,7 @@
     "versioncontrol": "1.4",
     "all_remoteads_show": 0,
     "testad": 0,
-    "menubutton_interstitial": 2,
+    "menubutton_interstitial": 0,
     "menubackbutton_interstitial": 1,
     "menuquitbutton_interstitial": 0,
     "resume_interstitial": 1,
